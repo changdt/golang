@@ -1,0 +1,9 @@
+hash: 99d0272e337bdf3dcb20864554a348c45cd9de6ad894e49c97b644591a8b1a88
+updated: 2016-10-13T23:26:03.059530905+08:00
+imports:
+- name: github.com/garyburd/redigo
+  version: ffa8d46ada782d81cfda81a0fbd9f45ceae448e8
+  subpackages:
+  - redis
+  - internal
+devImports: []

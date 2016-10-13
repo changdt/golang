@@ -1,0 +1,5 @@
+package: github.com/changdt/golang
+import:
+- package: github.com/garyburd/redigo
+  subpackages:
+  - redis
