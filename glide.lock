@@ -1,9 +1,28 @@
 hash: 99d0272e337bdf3dcb20864554a348c45cd9de6ad894e49c97b644591a8b1a88
-updated: 2016-10-13T23:26:03.059530905+08:00
+updated: 2016-10-15T00:41:41.209739896+08:00
 imports:
 - name: github.com/garyburd/redigo
   version: ffa8d46ada782d81cfda81a0fbd9f45ceae448e8
   subpackages:
   - redis
   - internal
+- name: github.com/gin-gonic/gin
+  version: 3900df04d2a88e22beaf6a2970c63648b9e1b0e1
+  subpackages:
+  - binding
+  - render
+- name: github.com/golang/protobuf
+  version: 98fa357170587e470c5f27d3c3ea0947b71eb455
+  subpackages:
+  - proto
+- name: github.com/manucorporat/sse
+  version: ee05b128a739a0fb76c7ebd3ae4810c1de808d6d
+- name: golang.org/x/net
+  version: 8b4af36cd21a1f85a7484b49feb7c79363106d8e
+  subpackages:
+  - context
+- name: gopkg.in/go-playground/validator.v8
+  version: 5f57d2222ad794d0dffb07e664ea05e2ee07d60c
+- name: gopkg.in/yaml.v2
+  version: a5b47d31c556af34a302ce5d659e6fea44d90de0
 devImports: []

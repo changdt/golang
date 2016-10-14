@@ -3,3 +3,4 @@ import:
 - package: github.com/garyburd/redigo
   subpackages:
   - redis
+- package: github.com/gin-gonic/gin
